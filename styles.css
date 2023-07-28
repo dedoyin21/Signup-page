@@ -75,10 +75,15 @@ input[type=submit]{
 
     .signup-component{
         color: white;
+        margin-left: 20px;
         width: 100%;
         padding-right: 10px;
         margin-top: 50px;
         margin-bottom: -3rem;
+    }
+    .div{
+        width: 100%;
+
     }
 
   }
